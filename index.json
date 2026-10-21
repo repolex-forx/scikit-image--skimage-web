@@ -1,0 +1,11 @@
+{
+  "org": "scikit-image",
+  "repo": "skimage-web",
+  "versions": [
+    {
+      "commit": "6cfc7a586b4a58c4c20a5aa967b20a6bb72d2b59",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:29:21.283188+00:00"
+    }
+  ]
+}
